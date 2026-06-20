@@ -1,6 +1,6 @@
 # Laboratorio de Algoritmos Cuánticos
 
-Notas de estudio, derivaciones completas y banco de problemas que armé mientras cursaba *Fundamentals of Quantum Algorithms* (IBM Quantum). No es un resumen pasivo del curso — es la versión que me hubiera gustado tener antes de empezar: con las cuentas hechas hasta el final, los porqués explicados (no solo el resultado), y los errores típicos marcados justo donde más duelen en un parcial.
+Notas de estudio, derivaciones completas y banco de problemas que armé mientras cursaba *Fundamentals of Quantum Algorithms* (IBM Quantum). No es un resumen pasivo del curso es la versión que me hubiera gustado tener antes de empezar: con las cuentas hechas hasta el final, los porqués explicados (no solo el resultado), y los errores típicos marcados.
 
 Cubre desde matrices unitarias y el modelo de consultas hasta Deutsch-Jozsa, Simon, Grover, estimación de fase, la QFT y Shor. Si estás preparando un examen de algoritmos cuánticos, monitoreando un curso, o simplemente queriendo entender *por qué* funciona cada algoritmo y no solo memorizar la fórmula final, esto te debería servir.
 
@@ -29,7 +29,7 @@ Cada módulo temático (`00` a `07`) sigue la misma estructura interna:
 
 ## Por qué existe este repo
 
-Porque la diferencia entre "entender Grover" y "saber resolver un problema de Grover" es enorme, y casi todo el material que circula se queda en la primera parte. Cada documento de este repo intenta cerrar esa brecha: parte de la intuición geométrica o algebraica, pero siempre termina en números concretos y en la pregunta de "¿y si rompo la promesa del problema, qué pasa?" — porque ahí es donde realmente se entiende un algoritmo.
+Porque la diferencia entre "entender Grover" y "saber resolver un problema de Grover" es enorme, y casi todo el material que circula se queda en la primera parte. Cada documento de este repo intenta cerrar esa brecha parte de la intuición geométrica o algebraica, pero siempre termina en números concretos y en la pregunta de "¿y si rompo la promesa del problema, qué pasa?" porque ahí es donde realmente se entiende un algoritmo.
 
 ## Stack
 
@@ -37,9 +37,6 @@ Porque la diferencia entre "entender Grover" y "saber resolver un problema de Gr
 - Jupyter
 - Markdown + LaTeX para la notación (compatible con GitHub y con Obsidian)
 
-## Estado
-
-🚧 En construcción activa — lo voy llenando a medida que avanzo en el curso y repaso para los parciales. Si encontrás un error o una derivación que se puede explicar mejor, abrí un issue.
 
 ## Licencia
 
